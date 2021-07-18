@@ -1,0 +1,64 @@
+header h1{
+    text-shadow: 0 0 3px #ff0000;
+}
+body{
+    background-color: burlywood;
+    text-align: center;
+
+
+
+}
+.Imagen{
+    width: 300px;
+    height:250px;
+    border:1px solid orange;
+    background-image: url(https://cdn.forbes.com.mx/2020/07/acapulco-640x360.jpg)
+
+}
+
+p{
+    border-radius: 15px 50px;
+    background-color: paleturquoise;
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+    box-shadow: insert 0px 0px 40px #f00, 0px 0px 40px #ff0;
+}
+.Imagen h2{
+    color: white;
+    font-size: 30px;
+    margin-bottom:  50px;
+    opacity: 0.25;
+}
+.Imagen h4{
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 20px;
+    margin-top: 35px;
+    opacity:0.6;
+}
+div.container p{
+    padding: 10px;
+    box-shadow: 0px 4px 8 px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,19);
+    width: 100;
+    height: 100;
+
+
+}
+.Seccion-padre{
+    display: flex;
+    justify-content: space-between;
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+
+}
+h1,p,div{
+    display: flex;
+    justify-content: space-between;
+}
+
+

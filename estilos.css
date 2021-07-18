@@ -1,0 +1,46 @@
+.boxing{
+    background-color:burlywood;
+    height: 375px;
+    width: 150px;
+    padding: 30px;
+    margin: 50px 0px 0xp 50px;
+    text-align: center;
+}
+body{
+    background-color: rgba(22, 119, 122, 0.479);
+    text-align:center ;
+    
+
+}
+h3{
+    background-color: forestgreen;
+}
+.Imagen{
+    width: 200px;
+    height: 250px;
+    border: 1px solid orange;
+    background-image: url(https://static01.nyt.com/images/2020/11/03/obituaries/25maradona-ES-1/merlin_179277768_aad070c4-7e63-47ef-8e1b-b3ad1a2d19a3-articleLarge.jpg?quality=75&auto=webp&disable=upscale);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 2px 4px 50px rgb(0,0,0);
+    text-align: center;
+}
+h1{
+    background-color: rgba(22, 119, 122, 0.479);
+}
+.Imagen h2{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 50px;
+    opacity: 0.25;
+
+}
+.Imagen h4{
+    color: whitesmoke;
+    font-size:25px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 20px;
+    margin-top:35px ;
+    opacity: 0.6;
+}
